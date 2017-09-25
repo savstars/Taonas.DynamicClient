@@ -1,1 +1,1 @@
-# Taonas.DynamicClient
+# Taonas.DynamicProxy
